@@ -65,6 +65,6 @@ Note that this issue occurs because JNotify does not support network file system
 
 Dependencies
 ------------
-This Dockerfile depends on [the official Docker Java repo](https://registry.hub.docker.com/u/library/java/). Version 7 was used for this build.
+This Dockerfile depends on [the official Docker Java repo](https://registry.hub.docker.com/u/library/java/). Version 8 was used for this build.
 
 
