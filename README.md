@@ -2,7 +2,7 @@ Typesafe Activator For Docker
 ================
 Activator is the Typesafe Reactive Platform's build and tutorial tool. It allows you to easily get started with Play Framework, Akka and Scala.
 
-This build is configured to use version 1.2.12 of Activator.
+This build is configured to use version 1.3.7 of Activator.
 
 For more information, visit [typesafe.com](http://typesafe.com/get-started).
 
